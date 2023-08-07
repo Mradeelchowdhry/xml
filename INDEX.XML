@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <FLOWERSHOP>
+        <flower>
+        <id>1</id>
+        <flowername>ROSE</flowername>
+        <items>2924unit</items>
+        </flower>
+
+        <flower>
+        <id>2</id>
+        <flowername>TULIP</flowername>
+        <items>4650unit</items>
+        </flower>
+
+        <flower>
+        <id>3</id>
+        <flowername>LILY</flowername>
+        <items>2146unit</items>
+        </flower>
+
+        <flower>
+        <id>4</id>
+        <flowername>JASMIN</flowername>
+        <items>926unit</items>
+        </flower>
+
+        <flower>
+        <id>5</id>
+        <flowername>DAFFODILS</flowername>
+        <items>0unit</items>
+        </flower>
+        
+    </FLOWERSHOP>
